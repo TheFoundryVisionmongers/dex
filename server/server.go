@@ -20,7 +20,7 @@ import (
 	"github.com/go-gorp/gorp"
 	"github.com/jonboulle/clockwork"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	"github.com/coreos/dex/client"
 	clientmanager "github.com/coreos/dex/client/manager"
 	"github.com/coreos/dex/connector"

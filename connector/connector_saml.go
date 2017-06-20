@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"path"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	"github.com/coreos/dex/connector/v2saml"
 	phttp "github.com/coreos/dex/pkg/http"
 	"github.com/coreos/go-oidc/oauth2"
